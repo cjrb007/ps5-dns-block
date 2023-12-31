@@ -1,0 +1,10 @@
+# Title: ps4_dns_block/phoanglong
+#
+# This hosts file is a merged collection of hosts from depressive_monk
+# to disable any update from ps4. I'm just creating GitHub Raw Hosts data so everyone can use
+# This work is by depressive_monk, please give all the credit to him
+# https://www.reddit.com/user/depressive_monk/
+# Date: 25 Dec 2023
+# 
+# ===============================================================
+0.0.0.0	dau01.ps4.update.playstation.net
