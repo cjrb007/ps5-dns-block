@@ -7,16 +7,24 @@
 # Date: 30 Dec 2023
 # 
 # ===============================================================
-0.0.0.0 duk01.ps5.update.playstation.net
-0.0.0.0 fuk01.ps5.update.playstation.net
-0.0.0.0 dus01.ps5.update.playstation.net
-0.0.0.0 fus01.ps5.update.playstation.net
-0.0.0.0 feu01.ps5.update.playstation.net
 0.0.0.0 dau01.ps5.update.playstation.net
-0.0.0.0 fau01.ps5.update.playstation.net
+0.0.0.0 dbr01.ps5.update.playstation.net
+0.0.0.0 dcn01.ps5.update.playstation.net
+0.0.0.0 deu01.ps5.update.playstation.net
+0.0.0.0 dhk01.ps5.update.playstation.net
 0.0.0.0 djp01.ps5.update.playstation.net
+0.0.0.0 dkr01.ps5.update.playstation.net
+0.0.0.0 dmx01.ps5.update.playstation.net
+0.0.0.0 dru01.ps5.update.playstation.net
+0.0.0.0 dsa01.ps5.update.playstation.net
+0.0.0.0 dtw01.ps5.update.playstation.net
+0.0.0.0 duk01.ps5.update.playstation.net
+0.0.0.0 dus01.ps5.update.playstation.net
+0.0.0.0 fau01.ps5.update.playstation.net
+0.0.0.0 feu01.ps5.update.playstation.net
 0.0.0.0 fjp01.ps5.update.playstation.net
 0.0.0.0 fsa01.ps5.update.playstation.net
-0.0.0.0 dsa01.ps5.update.playstation.net
+0.0.0.0 fuk01.ps5.update.playstation.net
+0.0.0.0 fus01.ps5.update.playstation.net
 0.0.0.0 sgst.prod.dl.playstation.net
 0.0.0.0 gs2.ww.prod.dl.playstation.net
