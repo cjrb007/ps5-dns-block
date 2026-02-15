@@ -1,14 +1,10 @@
 # Title: ps5_dns_block/cjrb007
-#
 # This hosts file is a merged collection of hosts from MODDED WARFARE
 # to disable any update from ps5. I'm just creating GitHub Raw Hosts data so everyone can use
 # This work is by MODDED WARFARE, please give all the credit to him
 # https://twitter.com/MODDED_WARFARE
 # Date: 30 Dec 2023
-#
 # Special thanks to CasperMcFadden95 and Al-Azif.
-
-
 # ===============================================================
 # Core update / service endpoints frequently used for updates/CDN
 # ===============================================================
@@ -19,7 +15,6 @@
 0.0.0.0 get.net.playstation.net
 0.0.0.0 post.net.playstation.net
 0.0.0.0 ena.net.playstation.net
-
 # ===============================================================
 # PS5 System Software Update Servers (Regional)
 # Regions observed in public configs: au br cn eu hk jp kr mx ru sa tw uk us
@@ -37,7 +32,6 @@
 0.0.0.0 dtw01.ps5.update.playstation.net
 0.0.0.0 duk01.ps5.update.playstation.net
 0.0.0.0 dus01.ps5.update.playstation.net
-
 0.0.0.0 fau01.ps5.update.playstation.net
 0.0.0.0 fbr01.ps5.update.playstation.net
 0.0.0.0 fcn01.ps5.update.playstation.net
@@ -51,7 +45,6 @@
 0.0.0.0 ftw01.ps5.update.playstation.net
 0.0.0.0 fuk01.ps5.update.playstation.net
 0.0.0.0 fus01.ps5.update.playstation.net
-
 0.0.0.0 hau01.ps5.update.playstation.net
 0.0.0.0 hbr01.ps5.update.playstation.net
 0.0.0.0 hcn01.ps5.update.playstation.net
@@ -65,25 +58,19 @@
 0.0.0.0 htw01.ps5.update.playstation.net
 0.0.0.0 huk01.ps5.update.playstation.net
 0.0.0.0 hus01.ps5.update.playstation.net
-
 # ===============================================================
 # Game/content update download infrastructure (CDN + package endpoints)
 # ===============================================================
 0.0.0.0 gs.ww.np.dl.playstation.net
 0.0.0.0 gs.ww.np.dl.playstation.net.edgesuite.net
-
 0.0.0.0 b0.ww.np.dl.playstation.net
 0.0.0.0 b0.ww.np.dl.playstation.net.edgesuite.net
-
 0.0.0.0 gs2.ww.prod.dl.playstation.net
 0.0.0.0 gs2.ww.prod.dl.playstation.net.edgesuite.net
-
 0.0.0.0 gst.prod.dl.playstation.net
 0.0.0.0 gst.prod.dl.playstation.net.edgesuite.net
-
 0.0.0.0 sgst.prod.dl.playstation.net
 0.0.0.0 sgst.prod.dl.playstation.net.edgesuite.net
-
 # ===============================================================
 # Additional Sony/PSN endpoints repeatedly included in community “update block” lists
 # ===============================================================
@@ -93,7 +80,6 @@
 0.0.0.0 apollo2.dl.playstation.net
 0.0.0.0 nsx.sec.np.dl.playstation.net
 0.0.0.0 oqesn.np.dl.playstation.net
-
 # ===============================================================
 # Extra endpoints often paired with update blocking
 # ===============================================================
@@ -106,7 +92,6 @@
 0.0.0.0 rnps-crl.dl.playstation.net
 0.0.0.0 urlconfig.api.playstation.com
 0.0.0.0 crepo.ww.dl.playstation.net
-
 # ===============================================================
 # CDN aliases (optional but commonly blocked)
 # ===============================================================
